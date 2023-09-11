@@ -1,2 +1,0 @@
-package Lesson_2
-
