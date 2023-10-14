@@ -1,0 +1,5000 @@
+Test Case 1:
+A = -65
+B = -23
+C = -90
+
+Test Case 2:
+A = -56
+B = -81
+C = -55
+
+Test Case 3:
+A = 6
+B = 26
+C = 146
+
+Test Case 4:
+A = -68
+B = -63
+C = -52
+
+Test Case 5:
+A = -65
+B = -25
+C = -29
+
+Test Case 6:
+A = 36
+B = 104
+C = 150
+
+Test Case 7:
+A = -43
+B = -11
+C = -70
+
+Test Case 8:
+A = -75
+B = -56
+C = -68
+
+Test Case 9:
+A = -65
+B = -93
+C = -50
+
+Test Case 10:
+A = -61
+B = -20
+C = -89
+
+Test Case 11:
+A = -76
+B = -90
+C = -11
+
+Test Case 12:
+A = -31
+B = -12
+C = -85
+
+Test Case 13:
+A = -32
+B = -65
+C = -16
+
+Test Case 14:
+A = -95
+B = -21
+C = -51
+
+Test Case 15:
+A = -27
+B = -25
+C = -88
+
+Test Case 16:
+A = -42
+B = -42
+C = -86
+
+Test Case 17:
+A = 124
+B = 168
+C = 176
+
+Test Case 18:
+A = -43
+B = -39
+C = -69
+
+Test Case 19:
+A = -42
+B = -90
+C = -64
+
+Test Case 20:
+A = -53
+B = -63
+C = -24
+
+Test Case 21:
+A = -96
+B = -20
+C = -25
+
+Test Case 22:
+A = -4
+B = -91
+C = -71
+
+Test Case 23:
+A = -97
+B = -2
+C = -17
+
+Test Case 24:
+A = -56
+B = -34
+C = -20
+
+Test Case 25:
+A = -82
+B = -75
+C = -45
+
+Test Case 26:
+A = 152
+B = 176
+C = 192
+
+Test Case 27:
+A = -65
+B = -3
+C = -80
+
+Test Case 28:
+A = -62
+B = -98
+C = -76
+
+Test Case 29:
+A = -74
+B = -27
+C = -68
+
+Test Case 30:
+A = 46
+B = 92
+C = 164
+
+Test Case 31:
+A = -52
+B = -62
+C = -39
+
+Test Case 32:
+A = -99
+B = -76
+C = -27
+
+Test Case 33:
+A = 4
+B = 74
+C = 136
+
+Test Case 34:
+A = -28
+B = -9
+C = -45
+
+Test Case 35:
+A = 0
+B = -61
+C = -15
+
+Test Case 36:
+A = -16
+B = -4
+C = -41
+
+Test Case 37:
+A = -50
+B = 1
+C = 1
+
+Test Case 38:
+A = -78
+B = -32
+C = -44
+
+Test Case 39:
+A = -26
+B = -89
+C = -15
+
+Test Case 40:
+A = -32
+B = -91
+C = -78
+
+Test Case 41:
+A = 94
+B = 152
+C = 198
+
+Test Case 42:
+A = -71
+B = -30
+C = -89
+
+Test Case 43:
+A = -33
+B = -1
+C = -69
+
+Test Case 44:
+A = -62
+B = -15
+C = -35
+
+Test Case 45:
+A = -20
+B = -95
+C = -4
+
+Test Case 46:
+A = -99
+B = -36
+C = -66
+
+Test Case 47:
+A = -75
+B = -48
+C = -27
+
+Test Case 48:
+A = -94
+B = -87
+C = -78
+
+Test Case 49:
+A = -79
+B = -56
+C = -97
+
+Test Case 50:
+A = 14
+B = 84
+C = 86
+
+Test Case 51:
+A = 1
+B = -56
+C = -9
+
+Test Case 52:
+A = 36
+B = 84
+C = 172
+
+Test Case 53:
+A = -58
+B = -2
+C = -23
+
+Test Case 54:
+A = -24
+B = -86
+C = -11
+
+Test Case 55:
+A = -31
+B = -68
+C = -45
+
+Test Case 56:
+A = -85
+B = -29
+C = -54
+
+Test Case 57:
+A = -72
+B = -19
+C = -8
+
+Test Case 58:
+A = -74
+B = -75
+C = -68
+
+Test Case 59:
+A = -47
+B = -88
+C = -56
+
+Test Case 60:
+A = -20
+B = -65
+C = -12
+
+Test Case 61:
+A = -45
+B = -89
+C = -3
+
+Test Case 62:
+A = -90
+B = -25
+C = -57
+
+Test Case 63:
+A = -69
+B = -47
+C = -57
+
+Test Case 64:
+A = -26
+B = 0
+C = -66
+
+Test Case 65:
+A = -57
+B = -31
+C = -18
+
+Test Case 66:
+A = 74
+B = 92
+C = 166
+
+Test Case 67:
+A = 78
+B = 114
+C = 152
+
+Test Case 68:
+A = -72
+B = -77
+C = -5
+
+Test Case 69:
+A = -44
+B = -20
+C = -30
+
+Test Case 70:
+A = -49
+B = -44
+C = -68
+
+Test Case 71:
+A = 140
+B = 148
+C = 160
+
+Test Case 72:
+A = -24
+B = -93
+C = -63
+
+Test Case 73:
+A = -85
+B = -28
+C = -82
+
+Test Case 74:
+A = 98
+B = 174
+C = 182
+
+Test Case 75:
+A = -94
+B = -50
+C = -58
+
+Test Case 76:
+A = -63
+B = -57
+C = -34
+
+Test Case 77:
+A = -12
+B = -94
+C = -42
+
+Test Case 78:
+A = -87
+B = -43
+C = -19
+
+Test Case 79:
+A = 8
+B = 138
+C = 172
+
+Test Case 80:
+A = -79
+B = -30
+C = -12
+
+Test Case 81:
+A = -41
+B = -88
+C = -3
+
+Test Case 82:
+A = -90
+B = -31
+C = -63
+
+Test Case 83:
+A = 94
+B = 126
+C = 198
+
+Test Case 84:
+A = -85
+B = -28
+C = -29
+
+Test Case 85:
+A = -76
+B = -35
+C = -58
+
+Test Case 86:
+A = -11
+B = -97
+C = -17
+
+Test Case 87:
+A = -87
+B = -99
+C = -93
+
+Test Case 88:
+A = -68
+B = -12
+C = -1
+
+Test Case 89:
+A = -94
+B = -79
+C = -2
+
+Test Case 90:
+A = 38
+B = 76
+C = 82
+
+Test Case 91:
+A = -38
+B = -10
+C = -20
+
+Test Case 92:
+A = -97
+B = -47
+C = -42
+
+Test Case 93:
+A = -75
+B = -74
+C = -32
+
+Test Case 94:
+A = -63
+B = -83
+C = -29
+
+Test Case 95:
+A = -48
+B = -69
+C = -5
+
+Test Case 96:
+A = -95
+B = -72
+C = -42
+
+Test Case 97:
+A = -22
+B = -71
+C = -60
+
+Test Case 98:
+A = 40
+B = 56
+C = 90
+
+Test Case 99:
+A = -28
+B = -87
+C = -36
+
+Test Case 100:
+A = -82
+B = -12
+C = -90
+
+Test Case 101:
+A = -34
+B = -32
+C = -17
+
+Test Case 102:
+A = -2
+B = -91
+C = -85
+
+Test Case 103:
+A = 2
+B = 96
+C = 164
+
+Test Case 104:
+A = -15
+B = -94
+C = -41
+
+Test Case 105:
+A = -87
+B = -53
+C = -66
+
+Test Case 106:
+A = -28
+B = -14
+C = -78
+
+Test Case 107:
+A = -69
+B = -34
+C = -16
+
+Test Case 108:
+A = -45
+B = -34
+C = -71
+
+Test Case 109:
+A = -57
+B = -26
+C = -51
+
+Test Case 110:
+A = 18
+B = 52
+C = 146
+
+Test Case 111:
+A = -56
+B = -76
+C = 0
+
+Test Case 112:
+A = -38
+B = -26
+C = -98
+
+Test Case 113:
+A = 0
+B = -99
+C = -71
+
+Test Case 114:
+A = -86
+B = -23
+C = -2
+
+Test Case 115:
+A = -50
+B = -62
+C = -32
+
+Test Case 116:
+A = -8
+B = -48
+C = -22
+
+Test Case 117:
+A = -38
+B = -76
+C = -30
+
+Test Case 118:
+A = -58
+B = -87
+C = -10
+
+Test Case 119:
+A = -66
+B = -93
+C = -25
+
+Test Case 120:
+A = 132
+B = 152
+C = 172
+
+Test Case 121:
+A = -50
+B = -19
+C = -11
+
+Test Case 122:
+A = -32
+B = -4
+C = -34
+
+Test Case 123:
+A = -83
+B = 0
+C = -47
+
+Test Case 124:
+A = -13
+B = -10
+C = -14
+
+Test Case 125:
+A = -97
+B = -83
+C = -18
+
+Test Case 126:
+A = -25
+B = -73
+C = -36
+
+Test Case 127:
+A = -96
+B = -22
+C = -82
+
+Test Case 128:
+A = -70
+B = -2
+C = -14
+
+Test Case 129:
+A = -34
+B = -9
+C = -9
+
+Test Case 130:
+A = 8
+B = 66
+C = 186
+
+Test Case 131:
+A = -97
+B = -74
+C = -6
+
+Test Case 132:
+A = -69
+B = -39
+C = -90
+
+Test Case 133:
+A = 150
+B = 172
+C = 194
+
+Test Case 134:
+A = -82
+B = -26
+C = -4
+
+Test Case 135:
+A = -16
+B = -54
+C = -50
+
+Test Case 136:
+A = -23
+B = -20
+C = -29
+
+Test Case 137:
+A = -46
+B = -38
+C = -6
+
+Test Case 138:
+A = -85
+B = -91
+C = -89
+
+Test Case 139:
+A = -19
+B = -44
+C = -7
+
+Test Case 140:
+A = -82
+B = -56
+C = -70
+
+Test Case 141:
+A = -21
+B = -59
+C = -31
+
+Test Case 142:
+A = -71
+B = -23
+C = -61
+
+Test Case 143:
+A = -31
+B = -96
+C = -5
+
+Test Case 144:
+A = -69
+B = -67
+C = -75
+
+Test Case 145:
+A = -57
+B = -42
+C = -40
+
+Test Case 146:
+A = 1
+B = -51
+C = -13
+
+Test Case 147:
+A = -43
+B = -12
+C = -3
+
+Test Case 148:
+A = -77
+B = -5
+C = -69
+
+Test Case 149:
+A = -40
+B = -34
+C = 1
+
+Test Case 150:
+A = 46
+B = 112
+C = 160
+
+Test Case 151:
+A = -88
+B = -75
+C = -17
+
+Test Case 152:
+A = -63
+B = -56
+C = -62
+
+Test Case 153:
+A = -8
+B = -36
+C = -34
+
+Test Case 154:
+A = -3
+B = 1
+C = -34
+
+Test Case 155:
+A = -82
+B = -55
+C = -27
+
+Test Case 156:
+A = -73
+B = -43
+C = -64
+
+Test Case 157:
+A = -51
+B = -63
+C = -38
+
+Test Case 158:
+A = -21
+B = -93
+C = -34
+
+Test Case 159:
+A = -86
+B = -9
+C = -94
+
+Test Case 160:
+A = -13
+B = -13
+C = -98
+
+Test Case 161:
+A = -71
+B = -9
+C = 1
+
+Test Case 162:
+A = -56
+B = -21
+C = -87
+
+Test Case 163:
+A = -99
+B = -65
+C = -75
+
+Test Case 164:
+A = -30
+B = -21
+C = -29
+
+Test Case 165:
+A = 54
+B = 88
+C = 114
+
+Test Case 166:
+A = -14
+B = -74
+C = -18
+
+Test Case 167:
+A = -51
+B = -49
+C = -60
+
+Test Case 168:
+A = -60
+B = -31
+C = 0
+
+Test Case 169:
+A = -16
+B = -74
+C = -60
+
+Test Case 170:
+A = -20
+B = -92
+C = -69
+
+Test Case 171:
+A = 14
+B = 72
+C = 152
+
+Test Case 172:
+A = -15
+B = -1
+C = -17
+
+Test Case 173:
+A = 118
+B = 148
+C = 154
+
+Test Case 174:
+A = -96
+B = -67
+C = -56
+
+Test Case 175:
+A = -25
+B = -60
+C = -21
+
+Test Case 176:
+A = -25
+B = -98
+C = -66
+
+Test Case 177:
+A = -96
+B = -8
+C = -81
+
+Test Case 178:
+A = -37
+B = 0
+C = -73
+
+Test Case 179:
+A = -9
+B = -53
+C = -35
+
+Test Case 180:
+A = -23
+B = -96
+C = -80
+
+Test Case 181:
+A = -49
+B = -88
+C = -31
+
+Test Case 182:
+A = -40
+B = -5
+C = -10
+
+Test Case 183:
+A = -28
+B = -89
+C = -77
+
+Test Case 184:
+A = -46
+B = -13
+C = -49
+
+Test Case 185:
+A = -33
+B = -99
+C = -36
+
+Test Case 186:
+A = -11
+B = -8
+C = -5
+
+Test Case 187:
+A = -34
+B = -6
+C = -69
+
+Test Case 188:
+A = -49
+B = -14
+C = -10
+
+Test Case 189:
+A = -26
+B = -47
+C = -16
+
+Test Case 190:
+A = -81
+B = -87
+C = -72
+
+Test Case 191:
+A = 94
+B = 102
+C = 166
+
+Test Case 192:
+A = -17
+B = -95
+C = -72
+
+Test Case 193:
+A = -30
+B = -60
+C = -37
+
+Test Case 194:
+A = 62
+B = 138
+C = 182
+
+Test Case 195:
+A = 30
+B = 166
+C = 172
+
+Test Case 196:
+A = -2
+B = 8
+C = 64
+
+Test Case 197:
+A = -5
+B = -30
+C = -21
+
+Test Case 198:
+A = -3
+B = -90
+C = -19
+
+Test Case 199:
+A = 18
+B = 80
+C = 112
+
+Test Case 200:
+A = -79
+B = -24
+C = -35
+
+Test Case 201:
+A = -61
+B = -36
+C = -83
+
+Test Case 202:
+A = -2
+B = 12
+C = 130
+
+Test Case 203:
+A = -18
+B = -73
+C = -18
+
+Test Case 204:
+A = -32
+B = -95
+C = -4
+
+Test Case 205:
+A = -72
+B = -25
+C = -61
+
+Test Case 206:
+A = -13
+B = -99
+C = -77
+
+Test Case 207:
+A = -69
+B = -27
+C = -14
+
+Test Case 208:
+A = -91
+B = -62
+C = -60
+
+Test Case 209:
+A = -85
+B = -89
+C = -44
+
+Test Case 210:
+A = -94
+B = -88
+C = -59
+
+Test Case 211:
+A = 42
+B = 66
+C = 76
+
+Test Case 212:
+A = -79
+B = -34
+C = -69
+
+Test Case 213:
+A = -44
+B = -95
+C = -95
+
+Test Case 214:
+A = 10
+B = 52
+C = 104
+
+Test Case 215:
+A = -73
+B = -65
+C = -36
+
+Test Case 216:
+A = -66
+B = -83
+C = -54
+
+Test Case 217:
+A = 14
+B = 56
+C = 184
+
+Test Case 218:
+A = -1
+B = -49
+C = -37
+
+Test Case 219:
+A = 66
+B = 86
+C = 176
+
+Test Case 220:
+A = -98
+B = -52
+C = -31
+
+Test Case 221:
+A = -51
+B = -30
+C = -24
+
+Test Case 222:
+A = -57
+B = -94
+C = -88
+
+Test Case 223:
+A = -36
+B = -85
+C = -35
+
+Test Case 224:
+A = -90
+B = -16
+C = -35
+
+Test Case 225:
+A = -99
+B = -52
+C = -83
+
+Test Case 226:
+A = -11
+B = -55
+C = -51
+
+Test Case 227:
+A = -97
+B = -46
+C = -48
+
+Test Case 228:
+A = -38
+B = -16
+C = -41
+
+Test Case 229:
+A = -78
+B = -36
+C = -15
+
+Test Case 230:
+A = -27
+B = -4
+C = -17
+
+Test Case 231:
+A = -94
+B = -36
+C = -97
+
+Test Case 232:
+A = -33
+B = -74
+C = -32
+
+Test Case 233:
+A = -51
+B = -31
+C = -39
+
+Test Case 234:
+A = -87
+B = -52
+C = -40
+
+Test Case 235:
+A = -34
+B = 0
+C = -52
+
+Test Case 236:
+A = -73
+B = -11
+C = -70
+
+Test Case 237:
+A = 32
+B = 68
+C = 80
+
+Test Case 238:
+A = -94
+B = -85
+C = -63
+
+Test Case 239:
+A = 10
+B = 110
+C = 154
+
+Test Case 240:
+A = -28
+B = -83
+C = -7
+
+Test Case 241:
+A = 56
+B = 136
+C = 156
+
+Test Case 242:
+A = -20
+B = -9
+C = -71
+
+Test Case 243:
+A = 46
+B = 146
+C = 170
+
+Test Case 244:
+A = -58
+B = -64
+C = -37
+
+Test Case 245:
+A = -29
+B = -12
+C = -8
+
+Test Case 246:
+A = -93
+B = -26
+C = -39
+
+Test Case 247:
+A = -82
+B = -25
+C = -40
+
+Test Case 248:
+A = -93
+B = -41
+C = 1
+
+Test Case 249:
+A = -62
+B = -66
+C = -40
+
+Test Case 250:
+A = -41
+B = -95
+C = -13
+
+Test Case 251:
+A = -12
+B = -62
+C = -27
+
+Test Case 252:
+A = -96
+B = -24
+C = -32
+
+Test Case 253:
+A = -19
+B = -66
+C = -24
+
+Test Case 254:
+A = -26
+B = -15
+C = -76
+
+Test Case 255:
+A = -33
+B = -31
+C = -85
+
+Test Case 256:
+A = -11
+B = -56
+C = -14
+
+Test Case 257:
+A = -23
+B = -86
+C = -59
+
+Test Case 258:
+A = 70
+B = 82
+C = 188
+
+Test Case 259:
+A = 66
+B = 108
+C = 154
+
+Test Case 260:
+A = -79
+B = -14
+C = -55
+
+Test Case 261:
+A = -18
+B = -93
+C = -15
+
+Test Case 262:
+A = -84
+B = -14
+C = -45
+
+Test Case 263:
+A = 22
+B = 170
+C = 174
+
+Test Case 264:
+A = -35
+B = -37
+C = 1
+
+Test Case 265:
+A = -88
+B = -14
+C = 0
+
+Test Case 266:
+A = -78
+B = -95
+C = -71
+
+Test Case 267:
+A = -41
+B = -75
+C = -60
+
+Test Case 268:
+A = -94
+B = -42
+C = -41
+
+Test Case 269:
+A = -86
+B = -21
+C = -91
+
+Test Case 270:
+A = -84
+B = -9
+C = -41
+
+Test Case 271:
+A = -80
+B = -52
+C = -65
+
+Test Case 272:
+A = -39
+B = -93
+C = -57
+
+Test Case 273:
+A = -71
+B = -59
+C = -39
+
+Test Case 274:
+A = -5
+B = -94
+C = -22
+
+Test Case 275:
+A = -55
+B = -77
+C = -6
+
+Test Case 276:
+A = -86
+B = -35
+C = -20
+
+Test Case 277:
+A = -37
+B = -66
+C = -27
+
+Test Case 278:
+A = -9
+B = -52
+C = -4
+
+Test Case 279:
+A = -1
+B = -62
+C = -62
+
+Test Case 280:
+A = -3
+B = -31
+C = -20
+
+Test Case 281:
+A = -88
+B = -61
+C = -21
+
+Test Case 282:
+A = -37
+B = -60
+C = -23
+
+Test Case 283:
+A = -69
+B = -12
+C = -63
+
+Test Case 284:
+A = -25
+B = -80
+C = -36
+
+Test Case 285:
+A = 84
+B = 94
+C = 154
+
+Test Case 286:
+A = -11
+B = -90
+C = -30
+
+Test Case 287:
+A = 14
+B = 134
+C = 136
+
+Test Case 288:
+A = -65
+B = -35
+C = -89
+
+Test Case 289:
+A = -53
+B = -34
+C = -34
+
+Test Case 290:
+A = -94
+B = -21
+C = -11
+
+Test Case 291:
+A = 140
+B = 150
+C = 194
+
+Test Case 292:
+A = -12
+B = -84
+C = -49
+
+Test Case 293:
+A = -79
+B = -74
+C = -10
+
+Test Case 294:
+A = 30
+B = 52
+C = 128
+
+Test Case 295:
+A = 90
+B = 116
+C = 138
+
+Test Case 296:
+A = -98
+B = -70
+C = -55
+
+Test Case 297:
+A = 4
+B = 118
+C = 170
+
+Test Case 298:
+A = -46
+B = -71
+C = -24
+
+Test Case 299:
+A = -91
+B = -79
+C = -43
+
+Test Case 300:
+A = -85
+B = -30
+C = -87
+
+Test Case 301:
+A = -63
+B = -51
+C = -83
+
+Test Case 302:
+A = -78
+B = -4
+C = -75
+
+Test Case 303:
+A = -34
+B = -77
+C = -40
+
+Test Case 304:
+A = -91
+B = -14
+C = -41
+
+Test Case 305:
+A = -66
+B = -9
+C = -44
+
+Test Case 306:
+A = -2
+B = 34
+C = 86
+
+Test Case 307:
+A = -69
+B = -95
+C = -92
+
+Test Case 308:
+A = -89
+B = -1
+C = -13
+
+Test Case 309:
+A = -68
+B = -88
+C = -15
+
+Test Case 310:
+A = -94
+B = -90
+C = -30
+
+Test Case 311:
+A = -85
+B = -86
+C = -61
+
+Test Case 312:
+A = -67
+B = 1
+C = -51
+
+Test Case 313:
+A = 12
+B = 28
+C = 84
+
+Test Case 314:
+A = -94
+B = -82
+C = -14
+
+Test Case 315:
+A = -18
+B = -55
+C = -49
+
+Test Case 316:
+A = -24
+B = -63
+C = -21
+
+Test Case 317:
+A = -70
+B = -70
+C = -26
+
+Test Case 318:
+A = 6
+B = 100
+C = 156
+
+Test Case 319:
+A = -71
+B = -8
+C = 1
+
+Test Case 320:
+A = -78
+B = -35
+C = -33
+
+Test Case 321:
+A = -97
+B = -87
+C = -69
+
+Test Case 322:
+A = 36
+B = 38
+C = 188
+
+Test Case 323:
+A = -57
+B = -27
+C = -83
+
+Test Case 324:
+A = -92
+B = -5
+C = -66
+
+Test Case 325:
+A = -39
+B = -52
+C = -33
+
+Test Case 326:
+A = -53
+B = -95
+C = -3
+
+Test Case 327:
+A = -4
+B = -21
+C = -4
+
+Test Case 328:
+A = -41
+B = -38
+C = -60
+
+Test Case 329:
+A = -52
+B = -24
+C = -23
+
+Test Case 330:
+A = -53
+B = -35
+C = -31
+
+Test Case 331:
+A = 96
+B = 134
+C = 170
+
+Test Case 332:
+A = -6
+B = -88
+C = -33
+
+Test Case 333:
+A = -87
+B = -37
+C = -9
+
+Test Case 334:
+A = -18
+B = -75
+C = -66
+
+Test Case 335:
+A = 1
+B = -47
+C = -20
+
+Test Case 336:
+A = -55
+B = 0
+C = -83
+
+Test Case 337:
+A = -63
+B = -40
+C = -10
+
+Test Case 338:
+A = -98
+B = -42
+C = -50
+
+Test Case 339:
+A = -65
+B = -54
+C = -26
+
+Test Case 340:
+A = -84
+B = -72
+C = -30
+
+Test Case 341:
+A = -11
+B = -71
+C = -64
+
+Test Case 342:
+A = -68
+B = -31
+C = -62
+
+Test Case 343:
+A = -89
+B = -66
+C = -69
+
+Test Case 344:
+A = -17
+B = -5
+C = -4
+
+Test Case 345:
+A = -32
+B = -92
+C = -33
+
+Test Case 346:
+A = -48
+B = -2
+C = -29
+
+Test Case 347:
+A = -94
+B = -70
+C = -8
+
+Test Case 348:
+A = -83
+B = -89
+C = -85
+
+Test Case 349:
+A = -63
+B = -6
+C = -77
+
+Test Case 350:
+A = 66
+B = 134
+C = 190
+
+Test Case 351:
+A = -22
+B = -21
+C = -2
+
+Test Case 352:
+A = 8
+B = 86
+C = 140
+
+Test Case 353:
+A = 24
+B = 58
+C = 186
+
+Test Case 354:
+A = 18
+B = 82
+C = 170
+
+Test Case 355:
+A = 0
+B = -86
+C = -10
+
+Test Case 356:
+A = -63
+B = -19
+C = -33
+
+Test Case 357:
+A = -88
+B = -85
+C = -70
+
+Test Case 358:
+A = 50
+B = 126
+C = 138
+
+Test Case 359:
+A = -85
+B = -16
+C = -42
+
+Test Case 360:
+A = -38
+B = -41
+C = -2
+
+Test Case 361:
+A = -64
+B = -67
+C = -20
+
+Test Case 362:
+A = -50
+B = -66
+C = -59
+
+Test Case 363:
+A = -51
+B = -6
+C = -37
+
+Test Case 364:
+A = -79
+B = -59
+C = -47
+
+Test Case 365:
+A = 84
+B = 90
+C = 178
+
+Test Case 366:
+A = -85
+B = -35
+C = -27
+
+Test Case 367:
+A = -41
+B = -50
+C = -1
+
+Test Case 368:
+A = -43
+B = -7
+C = -94
+
+Test Case 369:
+A = -64
+B = -48
+C = -25
+
+Test Case 370:
+A = -42
+B = -75
+C = -24
+
+Test Case 371:
+A = -82
+B = -23
+C = -42
+
+Test Case 372:
+A = 24
+B = 34
+C = 90
+
+Test Case 373:
+A = -9
+B = -51
+C = -42
+
+Test Case 374:
+A = -72
+B = -42
+C = -67
+
+Test Case 375:
+A = -58
+B = -15
+C = -86
+
+Test Case 376:
+A = -86
+B = -19
+C = -81
+
+Test Case 377:
+A = -5
+B = -87
+C = -35
+
+Test Case 378:
+A = -7
+B = -60
+C = -56
+
+Test Case 379:
+A = -52
+B = -44
+C = -63
+
+Test Case 380:
+A = -44
+B = -10
+C = -47
+
+Test Case 381:
+A = -81
+B = -10
+C = -66
+
+Test Case 382:
+A = -54
+B = -53
+C = -73
+
+Test Case 383:
+A = -2
+B = 10
+C = 138
+
+Test Case 384:
+A = -60
+B = -19
+C = -16
+
+Test Case 385:
+A = -69
+B = -47
+C = -4
+
+Test Case 386:
+A = -85
+B = -7
+C = -33
+
+Test Case 387:
+A = -45
+B = -9
+C = -60
+
+Test Case 388:
+A = 2
+B = 48
+C = 138
+
+Test Case 389:
+A = -85
+B = -29
+C = -59
+
+Test Case 390:
+A = -13
+B = -44
+C = -8
+
+Test Case 391:
+A = -78
+B = -88
+C = -20
+
+Test Case 392:
+A = -43
+B = -77
+C = -76
+
+Test Case 393:
+A = 18
+B = 116
+C = 164
+
+Test Case 394:
+A = -97
+B = -46
+C = -37
+
+Test Case 395:
+A = -41
+B = -4
+C = -94
+
+Test Case 396:
+A = -99
+B = -77
+C = -30
+
+Test Case 397:
+A = -77
+B = -51
+C = -62
+
+Test Case 398:
+A = -77
+B = -66
+C = -74
+
+Test Case 399:
+A = -15
+B = -7
+C = -18
+
+Test Case 400:
+A = -70
+B = -34
+C = -35
+
+Test Case 401:
+A = 16
+B = 174
+C = 190
+
+Test Case 402:
+A = -17
+B = -20
+C = -9
+
+Test Case 403:
+A = -7
+B = -5
+C = -29
+
+Test Case 404:
+A = -95
+B = -5
+C = -60
+
+Test Case 405:
+A = -2
+B = -79
+C = -2
+
+Test Case 406:
+A = 1
+B = -67
+C = -40
+
+Test Case 407:
+A = -69
+B = -8
+C = -22
+
+Test Case 408:
+A = -18
+B = -76
+C = -31
+
+Test Case 409:
+A = -42
+B = -73
+C = -24
+
+Test Case 410:
+A = -55
+B = -7
+C = -20
+
+Test Case 411:
+A = 0
+B = -87
+C = -4
+
+Test Case 412:
+A = -86
+B = -8
+C = -81
+
+Test Case 413:
+A = -23
+B = -4
+C = -1
+
+Test Case 414:
+A = -5
+B = -73
+C = -10
+
+Test Case 415:
+A = -26
+B = -37
+C = -33
+
+Test Case 416:
+A = -34
+B = -92
+C = -20
+
+Test Case 417:
+A = -64
+B = -68
+C = -31
+
+Test Case 418:
+A = -55
+B = -32
+C = -1
+
+Test Case 419:
+A = -96
+B = -64
+C = -85
+
+Test Case 420:
+A = 8
+B = 110
+C = 156
+
+Test Case 421:
+A = -26
+B = -70
+C = -61
+
+Test Case 422:
+A = -76
+B = -61
+C = -97
+
+Test Case 423:
+A = -45
+B = -67
+C = -67
+
+Test Case 424:
+A = -88
+B = -74
+C = -42
+
+Test Case 425:
+A = -88
+B = -69
+C = -40
+
+Test Case 426:
+A = 42
+B = 156
+C = 160
+
+Test Case 427:
+A = -78
+B = -26
+C = -79
+
+Test Case 428:
+A = -61
+B = -43
+C = -66
+
+Test Case 429:
+A = -63
+B = -75
+C = -38
+
+Test Case 430:
+A = -28
+B = -15
+C = -43
+
+Test Case 431:
+A = -48
+B = -48
+C = -14
+
+Test Case 432:
+A = -89
+B = -76
+C = -46
+
+Test Case 433:
+A = -35
+B = -4
+C = -39
+
+Test Case 434:
+A = -72
+B = -87
+C = -8
+
+Test Case 435:
+A = -69
+B = -60
+C = -95
+
+Test Case 436:
+A = 16
+B = 80
+C = 102
+
+Test Case 437:
+A = 138
+B = 146
+C = 172
+
+Test Case 438:
+A = -35
+B = -13
+C = -14
+
+Test Case 439:
+A = -2
+B = 106
+C = 138
+
+Test Case 440:
+A = -8
+B = -87
+C = -78
+
+Test Case 441:
+A = 0
+B = -49
+C = -44
+
+Test Case 442:
+A = -83
+B = -37
+C = -69
+
+Test Case 443:
+A = -35
+B = -39
+C = -27
+
+Test Case 444:
+A = -68
+B = -53
+C = -68
+
+Test Case 445:
+A = -85
+B = -53
+C = -17
+
+Test Case 446:
+A = -50
+B = -72
+C = -8
+
+Test Case 447:
+A = -93
+B = -52
+C = -62
+
+Test Case 448:
+A = 12
+B = 194
+C = 198
+
+Test Case 449:
+A = -38
+B = -75
+C = -20
+
+Test Case 450:
+A = -39
+B = -5
+C = -16
+
+Test Case 451:
+A = -31
+B = -29
+C = -12
+
+Test Case 452:
+A = -95
+B = -33
+C = -53
+
+Test Case 453:
+A = -21
+B = -98
+C = -90
+
+Test Case 454:
+A = -57
+B = -51
+C = -77
+
+Test Case 455:
+A = -91
+B = 1
+C = -97
+
+Test Case 456:
+A = 8
+B = 34
+C = 42
+
+Test Case 457:
+A = -82
+B = -45
+C = -99
+
+Test Case 458:
+A = -29
+B = -77
+C = -71
+
+Test Case 459:
+A = 120
+B = 130
+C = 152
+
+Test Case 460:
+A = 18
+B = 112
+C = 198
+
+Test Case 461:
+A = 158
+B = 166
+C = 198
+
+Test Case 462:
+A = 2
+B = 44
+C = 60
+
+Test Case 463:
+A = -22
+B = -43
+C = -14
+
+Test Case 464:
+A = -27
+B = -94
+C = 1
+
+Test Case 465:
+A = -58
+B = -15
+C = -93
+
+Test Case 466:
+A = -98
+B = -35
+C = -65
+
+Test Case 467:
+A = -75
+B = -82
+C = -64
+
+Test Case 468:
+A = -55
+B = -83
+C = -11
+
+Test Case 469:
+A = -69
+B = 0
+C = -83
+
+Test Case 470:
+A = 28
+B = 142
+C = 198
+
+Test Case 471:
+A = 52
+B = 86
+C = 196
+
+Test Case 472:
+A = -51
+B = -17
+C = -65
+
+Test Case 473:
+A = -75
+B = -52
+C = -5
+
+Test Case 474:
+A = -71
+B = -39
+C = -17
+
+Test Case 475:
+A = -95
+B = -22
+C = -19
+
+Test Case 476:
+A = -98
+B = -30
+C = -76
+
+Test Case 477:
+A = -85
+B = -44
+C = -88
+
+Test Case 478:
+A = 140
+B = 144
+C = 182
+
+Test Case 479:
+A = -2
+B = 18
+C = 72
+
+Test Case 480:
+A = -5
+B = -52
+C = -29
+
+Test Case 481:
+A = -99
+B = -75
+C = -75
+
+Test Case 482:
+A = 8
+B = 54
+C = 78
+
+Test Case 483:
+A = -98
+B = -64
+C = -8
+
+Test Case 484:
+A = -81
+B = -7
+C = -99
+
+Test Case 485:
+A = -20
+B = -12
+C = -86
+
+Test Case 486:
+A = -97
+B = -32
+C = -68
+
+Test Case 487:
+A = -12
+B = -6
+C = -94
+
+Test Case 488:
+A = -92
+B = -76
+C = -82
+
+Test Case 489:
+A = -90
+B = -23
+C = -33
+
+Test Case 490:
+A = -87
+B = -11
+C = -22
+
+Test Case 491:
+A = -86
+B = -27
+C = -12
+
+Test Case 492:
+A = -95
+B = -39
+C = -87
+
+Test Case 493:
+A = -51
+B = -78
+C = -7
+
+Test Case 494:
+A = -82
+B = -8
+C = -39
+
+Test Case 495:
+A = -48
+B = -46
+C = -82
+
+Test Case 496:
+A = -70
+B = -51
+C = -62
+
+Test Case 497:
+A = -65
+B = -94
+C = -91
+
+Test Case 498:
+A = -5
+B = -4
+C = -45
+
+Test Case 499:
+A = -76
+B = -34
+C = -97
+
+Test Case 500:
+A = -3
+B = -74
+C = -11
+
+Test Case 501:
+A = -20
+B = -96
+C = -60
+
+Test Case 502:
+A = -46
+B = -23
+C = -10
+
+Test Case 503:
+A = -79
+B = -31
+C = -85
+
+Test Case 504:
+A = -69
+B = -35
+C = -14
+
+Test Case 505:
+A = 54
+B = 76
+C = 126
+
+Test Case 506:
+A = -58
+B = -83
+C = -62
+
+Test Case 507:
+A = -94
+B = -51
+C = -44
+
+Test Case 508:
+A = -62
+B = -70
+C = -59
+
+Test Case 509:
+A = 0
+B = 68
+C = 148
+
+Test Case 510:
+A = -34
+B = -14
+C = -63
+
+Test Case 511:
+A = -83
+B = -68
+C = -73
+
+Test Case 512:
+A = -93
+B = -71
+C = -90
+
+Test Case 513:
+A = 18
+B = 134
+C = 176
+
+Test Case 514:
+A = -65
+B = -53
+C = -72
+
+Test Case 515:
+A = -57
+B = -24
+C = -70
+
+Test Case 516:
+A = -75
+B = -18
+C = -2
+
+Test Case 517:
+A = -95
+B = -98
+C = -67
+
+Test Case 518:
+A = -85
+B = -67
+C = -89
+
+Test Case 519:
+A = -17
+B = -5
+C = -9
+
+Test Case 520:
+A = -77
+B = -52
+C = -40
+
+Test Case 521:
+A = -73
+B = -40
+C = -82
+
+Test Case 522:
+A = -62
+B = -22
+C = -86
+
+Test Case 523:
+A = -46
+B = -73
+C = -34
+
+Test Case 524:
+A = -89
+B = -64
+C = -62
+
+Test Case 525:
+A = -94
+B = -3
+C = -32
+
+Test Case 526:
+A = 4
+B = 64
+C = 172
+
+Test Case 527:
+A = -92
+B = -96
+C = -15
+
+Test Case 528:
+A = -40
+B = -41
+C = -22
+
+Test Case 529:
+A = -4
+B = -63
+C = -14
+
+Test Case 530:
+A = -79
+B = -47
+C = -78
+
+Test Case 531:
+A = 0
+B = 16
+C = 144
+
+Test Case 532:
+A = -89
+B = -17
+C = -87
+
+Test Case 533:
+A = -94
+B = -33
+C = -93
+
+Test Case 534:
+A = -37
+B = -92
+C = -27
+
+Test Case 535:
+A = -60
+B = -28
+C = -79
+
+Test Case 536:
+A = -41
+B = -90
+C = -47
+
+Test Case 537:
+A = -25
+B = -13
+C = 0
+
+Test Case 538:
+A = -51
+B = -78
+C = -5
+
+Test Case 539:
+A = -78
+B = -13
+C = -32
+
+Test Case 540:
+A = -84
+B = -5
+C = -79
+
+Test Case 541:
+A = -92
+B = -60
+C = -39
+
+Test Case 542:
+A = -94
+B = -26
+C = -23
+
+Test Case 543:
+A = -37
+B = -48
+C = -1
+
+Test Case 544:
+A = -56
+B = -49
+C = -72
+
+Test Case 545:
+A = -63
+B = -79
+C = -12
+
+Test Case 546:
+A = -24
+B = -43
+C = -16
+
+Test Case 547:
+A = -11
+B = -53
+C = -41
+
+Test Case 548:
+A = -39
+B = -57
+C = -51
+
+Test Case 549:
+A = 14
+B = 102
+C = 182
+
+Test Case 550:
+A = -79
+B = -42
+C = -93
+
+Test Case 551:
+A = -2
+B = 84
+C = 146
+
+Test Case 552:
+A = -76
+B = -13
+C = -96
+
+Test Case 553:
+A = -34
+B = -71
+C = -20
+
+Test Case 554:
+A = 122
+B = 124
+C = 174
+
+Test Case 555:
+A = -56
+B = -87
+C = -40
+
+Test Case 556:
+A = -65
+B = -24
+C = -90
+
+Test Case 557:
+A = -73
+B = -42
+C = -80
+
+Test Case 558:
+A = -81
+B = -50
+C = -94
+
+Test Case 559:
+A = -25
+B = -17
+C = -2
+
+Test Case 560:
+A = -8
+B = -48
+C = -14
+
+Test Case 561:
+A = -60
+B = -24
+C = -68
+
+Test Case 562:
+A = -38
+B = -82
+C = -58
+
+Test Case 563:
+A = -55
+B = -86
+C = -5
+
+Test Case 564:
+A = -57
+B = -75
+C = -12
+
+Test Case 565:
+A = -60
+B = -82
+C = -58
+
+Test Case 566:
+A = -23
+B = -87
+C = -86
+
+Test Case 567:
+A = -93
+B = -99
+C = -23
+
+Test Case 568:
+A = -89
+B = 1
+C = -28
+
+Test Case 569:
+A = -78
+B = -26
+C = -98
+
+Test Case 570:
+A = -43
+B = -7
+C = -2
+
+Test Case 571:
+A = -43
+B = -9
+C = -64
+
+Test Case 572:
+A = 24
+B = 130
+C = 182
+
+Test Case 573:
+A = -61
+B = -44
+C = -82
+
+Test Case 574:
+A = -28
+B = -31
+C = -7
+
+Test Case 575:
+A = -80
+B = -7
+C = -49
+
+Test Case 576:
+A = -81
+B = -42
+C = -97
+
+Test Case 577:
+A = -82
+B = -16
+C = -94
+
+Test Case 578:
+A = -50
+B = -71
+C = -18
+
+Test Case 579:
+A = 0
+B = -92
+C = -9
+
+Test Case 580:
+A = -32
+B = -40
+C = -25
+
+Test Case 581:
+A = -41
+B = -14
+C = -82
+
+Test Case 582:
+A = -99
+B = -53
+C = 0
+
+Test Case 583:
+A = -12
+B = -86
+C = -1
+
+Test Case 584:
+A = 54
+B = 150
+C = 180
+
+Test Case 585:
+A = -90
+B = -14
+C = -20
+
+Test Case 586:
+A = -26
+B = -1
+C = -27
+
+Test Case 587:
+A = 62
+B = 124
+C = 126
+
+Test Case 588:
+A = -85
+B = -80
+C = -70
+
+Test Case 589:
+A = -34
+B = -67
+C = -21
+
+Test Case 590:
+A = -5
+B = -89
+C = -1
+
+Test Case 591:
+A = -37
+B = -98
+C = -65
+
+Test Case 592:
+A = -81
+B = -3
+C = -3
+
+Test Case 593:
+A = -83
+B = -92
+C = -65
+
+Test Case 594:
+A = 1
+B = -62
+C = -49
+
+Test Case 595:
+A = -15
+B = -8
+C = -39
+
+Test Case 596:
+A = -63
+B = -98
+C = -89
+
+Test Case 597:
+A = -56
+B = -75
+C = 1
+
+Test Case 598:
+A = -85
+B = -88
+C = -80
+
+Test Case 599:
+A = -40
+B = -88
+C = -77
+
+Test Case 600:
+A = 72
+B = 92
+C = 102
+
+Test Case 601:
+A = -60
+B = -75
+C = -18
+
+Test Case 602:
+A = -69
+B = -28
+C = -2
+
+Test Case 603:
+A = 84
+B = 178
+C = 184
+
+Test Case 604:
+A = -94
+B = -69
+C = -63
+
+Test Case 605:
+A = -32
+B = -13
+C = -9
+
+Test Case 606:
+A = -41
+B = -15
+C = -71
+
+Test Case 607:
+A = -81
+B = -97
+C = -4
+
+Test Case 608:
+A = -76
+B = -5
+C = -11
+
+Test Case 609:
+A = 0
+B = 86
+C = 140
+
+Test Case 610:
+A = -39
+B = -65
+C = -16
+
+Test Case 611:
+A = -54
+B = -49
+C = -41
+
+Test Case 612:
+A = -93
+B = -99
+C = -54
+
+Test Case 613:
+A = -76
+B = 1
+C = -97
+
+Test Case 614:
+A = -97
+B = -76
+C = -93
+
+Test Case 615:
+A = -62
+B = -97
+C = -75
+
+Test Case 616:
+A = -24
+B = -36
+C = -12
+
+Test Case 617:
+A = -70
+B = -12
+C = -86
+
+Test Case 618:
+A = -95
+B = -51
+C = -91
+
+Test Case 619:
+A = -48
+B = -40
+C = -89
+
+Test Case 620:
+A = -62
+B = -97
+C = -14
+
+Test Case 621:
+A = -37
+B = -2
+C = -1
+
+Test Case 622:
+A = -59
+B = -75
+C = -39
+
+Test Case 623:
+A = -1
+B = -63
+C = -38
+
+Test Case 624:
+A = -92
+B = -81
+C = -6
+
+Test Case 625:
+A = -44
+B = -29
+C = -92
+
+Test Case 626:
+A = -76
+B = -97
+C = -88
+
+Test Case 627:
+A = 4
+B = 6
+C = 184
+
+Test Case 628:
+A = -71
+B = -13
+C = -79
+
+Test Case 629:
+A = -71
+B = -73
+C = -5
+
+Test Case 630:
+A = -22
+B = -76
+C = -27
+
+Test Case 631:
+A = -23
+B = -46
+C = -44
+
+Test Case 632:
+A = 0
+B = 64
+C = 124
+
+Test Case 633:
+A = -94
+B = -64
+C = -12
+
+Test Case 634:
+A = -43
+B = -42
+C = -17
+
+Test Case 635:
+A = -88
+B = -88
+C = 0
+
+Test Case 636:
+A = -72
+B = -69
+C = -51
+
+Test Case 637:
+A = -93
+B = -24
+C = -41
+
+Test Case 638:
+A = -2
+B = -8
+C = 0
+
+Test Case 639:
+A = -17
+B = -63
+C = -27
+
+Test Case 640:
+A = -17
+B = -85
+C = -58
+
+Test Case 641:
+A = 36
+B = 134
+C = 172
+
+Test Case 642:
+A = -69
+B = -86
+C = -34
+
+Test Case 643:
+A = 68
+B = 124
+C = 172
+
+Test Case 644:
+A = -32
+B = -31
+C = -60
+
+Test Case 645:
+A = 2
+B = 104
+C = 110
+
+Test Case 646:
+A = -13
+B = -80
+C = -77
+
+Test Case 647:
+A = -67
+B = -1
+C = -70
+
+Test Case 648:
+A = -26
+B = -78
+C = -5
+
+Test Case 649:
+A = -37
+B = -3
+C = -13
+
+Test Case 650:
+A = -23
+B = -33
+C = -30
+
+Test Case 651:
+A = -34
+B = -62
+C = -41
+
+Test Case 652:
+A = -83
+B = -22
+C = -74
+
+Test Case 653:
+A = -47
+B = -1
+C = -29
+
+Test Case 654:
+A = -16
+B = -23
+C = -5
+
+Test Case 655:
+A = 152
+B = 160
+C = 162
+
+Test Case 656:
+A = -81
+B = -61
+C = -21
+
+Test Case 657:
+A = -42
+B = -27
+C = -39
+
+Test Case 658:
+A = -17
+B = -67
+C = -47
+
+Test Case 659:
+A = 8
+B = 170
+C = 186
+
+Test Case 660:
+A = -59
+B = -26
+C = -93
+
+Test Case 661:
+A = 0
+B = 6
+C = 194
+
+Test Case 662:
+A = -89
+B = -32
+C = -90
+
+Test Case 663:
+A = -45
+B = -37
+C = -41
+
+Test Case 664:
+A = 56
+B = 126
+C = 134
+
+Test Case 665:
+A = -55
+B = -31
+C = -44
+
+Test Case 666:
+A = -68
+B = -17
+C = -53
+
+Test Case 667:
+A = -85
+B = -12
+C = -48
+
+Test Case 668:
+A = -22
+B = -71
+C = -4
+
+Test Case 669:
+A = -62
+B = -25
+C = -68
+
+Test Case 670:
+A = -90
+B = -68
+C = -84
+
+Test Case 671:
+A = -79
+B = 1
+C = -5
+
+Test Case 672:
+A = -10
+B = -75
+C = -74
+
+Test Case 673:
+A = -99
+B = -1
+C = -78
+
+Test Case 674:
+A = -65
+B = -1
+C = -27
+
+Test Case 675:
+A = -30
+B = -2
+C = -28
+
+Test Case 676:
+A = -98
+B = -88
+C = -25
+
+Test Case 677:
+A = 26
+B = 64
+C = 88
+
+Test Case 678:
+A = -73
+B = 0
+C = -31
+
+Test Case 679:
+A = -19
+B = -94
+C = -64
+
+Test Case 680:
+A = -90
+B = -95
+C = -20
+
+Test Case 681:
+A = -38
+B = -5
+C = -67
+
+Test Case 682:
+A = -19
+B = -52
+C = -16
+
+Test Case 683:
+A = -27
+B = 0
+C = -20
+
+Test Case 684:
+A = -80
+B = -18
+C = -93
+
+Test Case 685:
+A = 12
+B = 24
+C = 50
+
+Test Case 686:
+A = -77
+B = -18
+C = -7
+
+Test Case 687:
+A = -24
+B = -56
+C = -29
+
+Test Case 688:
+A = 150
+B = 156
+C = 198
+
+Test Case 689:
+A = -74
+B = -86
+C = -54
+
+Test Case 690:
+A = -45
+B = -98
+C = -13
+
+Test Case 691:
+A = -29
+B = -1
+C = -76
+
+Test Case 692:
+A = -27
+B = -98
+C = -81
+
+Test Case 693:
+A = 1
+B = -63
+C = -45
+
+Test Case 694:
+A = -89
+B = -62
+C = -12
+
+Test Case 695:
+A = -76
+B = -92
+C = -52
+
+Test Case 696:
+A = -17
+B = -48
+C = -35
+
+Test Case 697:
+A = -76
+B = -7
+C = 0
+
+Test Case 698:
+A = 78
+B = 112
+C = 174
+
+Test Case 699:
+A = -73
+B = -37
+C = -82
+
+Test Case 700:
+A = -20
+B = -6
+C = -66
+
+Test Case 701:
+A = -28
+B = -77
+C = -11
+
+Test Case 702:
+A = -10
+B = -78
+C = -31
+
+Test Case 703:
+A = 0
+B = -63
+C = -16
+
+Test Case 704:
+A = -49
+B = -80
+C = -21
+
+Test Case 705:
+A = -48
+B = -48
+C = -67
+
+Test Case 706:
+A = -48
+B = -7
+C = -17
+
+Test Case 707:
+A = -50
+B = -45
+C = -74
+
+Test Case 708:
+A = -13
+B = -48
+C = -44
+
+Test Case 709:
+A = 6
+B = 42
+C = 144
+
+Test Case 710:
+A = -6
+B = -69
+C = -53
+
+Test Case 711:
+A = -28
+B = -80
+C = -70
+
+Test Case 712:
+A = -50
+B = -99
+C = -99
+
+Test Case 713:
+A = -95
+B = -81
+C = -36
+
+Test Case 714:
+A = -72
+B = -21
+C = -78
+
+Test Case 715:
+A = -15
+B = -38
+C = -26
+
+Test Case 716:
+A = 66
+B = 114
+C = 170
+
+Test Case 717:
+A = -65
+B = -31
+C = -51
+
+Test Case 718:
+A = 72
+B = 136
+C = 146
+
+Test Case 719:
+A = -31
+B = -91
+C = -19
+
+Test Case 720:
+A = -90
+B = -99
+C = -35
+
+Test Case 721:
+A = -73
+B = -90
+C = -86
+
+Test Case 722:
+A = -68
+B = -29
+C = -55
+
+Test Case 723:
+A = 0
+B = 84
+C = 138
+
+Test Case 724:
+A = -10
+B = -8
+C = -65
+
+Test Case 725:
+A = -87
+B = -76
+C = -82
+
+Test Case 726:
+A = -91
+B = -62
+C = -30
+
+Test Case 727:
+A = -71
+B = -19
+C = -96
+
+Test Case 728:
+A = -78
+B = -67
+C = -55
+
+Test Case 729:
+A = -86
+B = -5
+C = -55
+
+Test Case 730:
+A = -55
+B = -94
+C = -34
+
+Test Case 731:
+A = -59
+B = -97
+C = -17
+
+Test Case 732:
+A = -60
+B = -25
+C = -51
+
+Test Case 733:
+A = -65
+B = -54
+C = -29
+
+Test Case 734:
+A = 190
+B = 196
+C = 198
+
+Test Case 735:
+A = -61
+B = -91
+C = -77
+
+Test Case 736:
+A = -66
+B = -12
+C = -30
+
+Test Case 737:
+A = -76
+B = -99
+C = -84
+
+Test Case 738:
+A = -11
+B = 1
+C = -40
+
+Test Case 739:
+A = -26
+B = -51
+C = -40
+
+Test Case 740:
+A = 4
+B = 148
+C = 178
+
+Test Case 741:
+A = -71
+B = -41
+C = -74
+
+Test Case 742:
+A = -11
+B = -4
+C = -21
+
+Test Case 743:
+A = -38
+B = -35
+C = -34
+
+Test Case 744:
+A = -72
+B = -7
+C = -13
+
+Test Case 745:
+A = -73
+B = -60
+C = -61
+
+Test Case 746:
+A = -77
+B = -79
+C = -37
+
+Test Case 747:
+A = -61
+B = -50
+C = -23
+
+Test Case 748:
+A = -14
+B = -8
+C = -40
+
+Test Case 749:
+A = -10
+B = -55
+C = -46
+
+Test Case 750:
+A = -90
+B = -40
+C = -89
+
+Test Case 751:
+A = -25
+B = -16
+C = -15
+
+Test Case 752:
+A = -96
+B = -11
+C = -86
+
+Test Case 753:
+A = 76
+B = 114
+C = 176
+
+Test Case 754:
+A = -10
+B = -84
+C = -53
+
+Test Case 755:
+A = -57
+B = -63
+C = -62
+
+Test Case 756:
+A = -25
+B = -20
+C = -86
+
+Test Case 757:
+A = -79
+B = -37
+C = -48
+
+Test Case 758:
+A = -47
+B = -27
+C = -9
+
+Test Case 759:
+A = 64
+B = 132
+C = 172
+
+Test Case 760:
+A = -32
+B = -5
+C = -14
+
+Test Case 761:
+A = 80
+B = 122
+C = 162
+
+Test Case 762:
+A = -96
+B = -86
+C = -47
+
+Test Case 763:
+A = -85
+B = -60
+C = -95
+
+Test Case 764:
+A = -7
+B = -88
+C = -20
+
+Test Case 765:
+A = -85
+B = -93
+C = -51
+
+Test Case 766:
+A = 28
+B = 90
+C = 158
+
+Test Case 767:
+A = -95
+B = -79
+C = -36
+
+Test Case 768:
+A = -50
+B = -70
+C = -59
+
+Test Case 769:
+A = -89
+B = -70
+C = -28
+
+Test Case 770:
+A = -91
+B = -40
+C = -53
+
+Test Case 771:
+A = -92
+B = -66
+C = -79
+
+Test Case 772:
+A = -81
+B = -22
+C = -82
+
+Test Case 773:
+A = 60
+B = 152
+C = 176
+
+Test Case 774:
+A = -79
+B = -45
+C = -15
+
+Test Case 775:
+A = -94
+B = -64
+C = -98
+
+Test Case 776:
+A = -87
+B = -95
+C = -56
+
+Test Case 777:
+A = -78
+B = -31
+C = -84
+
+Test Case 778:
+A = -42
+B = -35
+C = -95
+
+Test Case 779:
+A = -12
+B = -3
+C = -56
+
+Test Case 780:
+A = -19
+B = -19
+C = -62
+
+Test Case 781:
+A = -85
+B = -57
+C = -55
+
+Test Case 782:
+A = -51
+B = -95
+C = -76
+
+Test Case 783:
+A = -19
+B = -41
+C = -25
+
+Test Case 784:
+A = -24
+B = 0
+C = -54
+
+Test Case 785:
+A = 64
+B = 114
+C = 158
+
+Test Case 786:
+A = -10
+B = -86
+C = -19
+
+Test Case 787:
+A = -26
+B = -93
+C = 0
+
+Test Case 788:
+A = -21
+B = -98
+C = -96
+
+Test Case 789:
+A = -60
+B = -58
+C = -8
+
+Test Case 790:
+A = -84
+B = -72
+C = -55
+
+Test Case 791:
+A = -83
+B = -49
+C = -77
+
+Test Case 792:
+A = 2
+B = 18
+C = 86
+
+Test Case 793:
+A = -78
+B = -16
+C = -95
+
+Test Case 794:
+A = -23
+B = -96
+C = -88
+
+Test Case 795:
+A = -45
+B = -16
+C = -57
+
+Test Case 796:
+A = 2
+B = 58
+C = 96
+
+Test Case 797:
+A = -20
+B = -64
+C = -15
+
+Test Case 798:
+A = -79
+B = -24
+C = -75
+
+Test Case 799:
+A = -71
+B = -23
+C = -91
+
+Test Case 800:
+A = -15
+B = -90
+C = -9
+
+Test Case 801:
+A = -78
+B = -12
+C = -83
+
+Test Case 802:
+A = -78
+B = -25
+C = 0
+
+Test Case 803:
+A = -30
+B = -96
+C = -69
+
+Test Case 804:
+A = -92
+B = -66
+C = -45
+
+Test Case 805:
+A = -67
+B = -31
+C = -89
+
+Test Case 806:
+A = -44
+B = -86
+C = -32
+
+Test Case 807:
+A = -42
+B = -93
+C = -42
+
+Test Case 808:
+A = -90
+B = -79
+C = -73
+
+Test Case 809:
+A = 44
+B = 134
+C = 142
+
+Test Case 810:
+A = -19
+B = -68
+C = -13
+
+Test Case 811:
+A = -81
+B = -75
+C = -37
+
+Test Case 812:
+A = -57
+B = -64
+C = -5
+
+Test Case 813:
+A = 32
+B = 60
+C = 186
+
+Test Case 814:
+A = -77
+B = -84
+C = -59
+
+Test Case 815:
+A = -53
+B = -47
+C = -91
+
+Test Case 816:
+A = -75
+B = -54
+C = -73
+
+Test Case 817:
+A = 90
+B = 126
+C = 142
+
+Test Case 818:
+A = -11
+B = -49
+C = -21
+
+Test Case 819:
+A = -27
+B = -98
+C = -58
+
+Test Case 820:
+A = -31
+B = -74
+C = -24
+
+Test Case 821:
+A = -48
+B = -23
+C = -25
+
+Test Case 822:
+A = -91
+B = -60
+C = -47
+
+Test Case 823:
+A = -29
+B = -13
+C = -10
+
+Test Case 824:
+A = -72
+B = -70
+C = -34
+
+Test Case 825:
+A = -92
+B = -41
+C = -55
+
+Test Case 826:
+A = -10
+B = -48
+C = -23
+
+Test Case 827:
+A = -47
+B = -46
+C = -95
+
+Test Case 828:
+A = 40
+B = 98
+C = 198
+
+Test Case 829:
+A = -48
+B = -20
+C = -46
+
+Test Case 830:
+A = 12
+B = 120
+C = 190
+
+Test Case 831:
+A = -33
+B = -17
+C = -14
+
+Test Case 832:
+A = -80
+B = -93
+C = -23
+
+Test Case 833:
+A = -70
+B = -32
+C = -8
+
+Test Case 834:
+A = -14
+B = -94
+C = -66
+
+Test Case 835:
+A = -80
+B = -4
+C = -76
+
+Test Case 836:
+A = 22
+B = 70
+C = 196
+
+Test Case 837:
+A = -83
+B = -65
+C = -52
+
+Test Case 838:
+A = -51
+B = -89
+C = -4
+
+Test Case 839:
+A = -83
+B = -24
+C = -2
+
+Test Case 840:
+A = -3
+B = -68
+C = -29
+
+Test Case 841:
+A = -14
+B = -88
+C = -23
+
+Test Case 842:
+A = -27
+B = -7
+C = -95
+
+Test Case 843:
+A = 90
+B = 122
+C = 148
+
+Test Case 844:
+A = 8
+B = 120
+C = 142
+
+Test Case 845:
+A = 82
+B = 98
+C = 104
+
+Test Case 846:
+A = -91
+B = -15
+C = -15
+
+Test Case 847:
+A = -4
+B = -74
+C = -69
+
+Test Case 848:
+A = -33
+B = -50
+C = -14
+
+Test Case 849:
+A = -60
+B = -20
+C = -21
+
+Test Case 850:
+A = -41
+B = -86
+C = -40
+
+Test Case 851:
+A = -96
+B = -21
+C = -98
+
+Test Case 852:
+A = -74
+B = -56
+C = -45
+
+Test Case 853:
+A = -57
+B = -41
+C = -26
+
+Test Case 854:
+A = -27
+B = -90
+C = -23
+
+Test Case 855:
+A = 100
+B = 164
+C = 190
+
+Test Case 856:
+A = -79
+B = -61
+C = -21
+
+Test Case 857:
+A = 26
+B = 118
+C = 194
+
+Test Case 858:
+A = -68
+B = -79
+C = -13
+
+Test Case 859:
+A = -11
+B = -80
+C = -7
+
+Test Case 860:
+A = 1
+B = 1
+C = -46
+
+Test Case 861:
+A = -47
+B = -69
+C = -27
+
+Test Case 862:
+A = -99
+B = -42
+C = -61
+
+Test Case 863:
+A = -52
+B = -40
+C = -77
+
+Test Case 864:
+A = -3
+B = -30
+C = -5
+
+Test Case 865:
+A = -43
+B = -96
+C = -13
+
+Test Case 866:
+A = -83
+B = -87
+C = -8
+
+Test Case 867:
+A = -35
+B = -18
+C = -29
+
+Test Case 868:
+A = -17
+B = -6
+C = -95
+
+Test Case 869:
+A = -25
+B = -72
+C = -15
+
+Test Case 870:
+A = 2
+B = 18
+C = 124
+
+Test Case 871:
+A = -36
+B = -7
+C = -94
+
+Test Case 872:
+A = -21
+B = -33
+C = -28
+
+Test Case 873:
+A = -5
+B = -99
+C = -50
+
+Test Case 874:
+A = -19
+B = -84
+C = -14
+
+Test Case 875:
+A = -68
+B = 1
+C = -5
+
+Test Case 876:
+A = -36
+B = -91
+C = -60
+
+Test Case 877:
+A = -98
+B = -76
+C = -58
+
+Test Case 878:
+A = -8
+B = -76
+C = 0
+
+Test Case 879:
+A = -85
+B = -72
+C = -47
+
+Test Case 880:
+A = -68
+B = -34
+C = -8
+
+Test Case 881:
+A = -69
+B = -54
+C = -63
+
+Test Case 882:
+A = -16
+B = -60
+C = -38
+
+Test Case 883:
+A = -71
+B = -67
+C = -17
+
+Test Case 884:
+A = -92
+B = -65
+C = -87
+
+Test Case 885:
+A = 26
+B = 112
+C = 166
+
+Test Case 886:
+A = -99
+B = -50
+C = -98
+
+Test Case 887:
+A = -73
+B = -13
+C = -78
+
+Test Case 888:
+A = -69
+B = -33
+C = -14
+
+Test Case 889:
+A = -13
+B = -75
+C = -17
+
+Test Case 890:
+A = -20
+B = -93
+C = -9
+
+Test Case 891:
+A = -52
+B = -33
+C = -47
+
+Test Case 892:
+A = -27
+B = -13
+C = -33
+
+Test Case 893:
+A = -37
+B = -52
+C = -6
+
+Test Case 894:
+A = -58
+B = -43
+C = -34
+
+Test Case 895:
+A = -7
+B = -97
+C = -95
+
+Test Case 896:
+A = 4
+B = 136
+C = 138
+
+Test Case 897:
+A = -82
+B = -23
+C = -5
+
+Test Case 898:
+A = -98
+B = -20
+C = -59
+
+Test Case 899:
+A = -79
+B = -30
+C = -6
+
+Test Case 900:
+A = -39
+B = -28
+C = -48
+
+Test Case 901:
+A = -42
+B = -16
+C = -67
+
+Test Case 902:
+A = -77
+B = -94
+C = -2
+
+Test Case 903:
+A = 56
+B = 122
+C = 178
+
+Test Case 904:
+A = 32
+B = 136
+C = 150
+
+Test Case 905:
+A = -57
+B = 1
+C = -93
+
+Test Case 906:
+A = -60
+B = -50
+C = -71
+
+Test Case 907:
+A = 16
+B = 166
+C = 190
+
+Test Case 908:
+A = -85
+B = -6
+C = -17
+
+Test Case 909:
+A = -83
+B = -99
+C = -51
+
+Test Case 910:
+A = -31
+B = 1
+C = -71
+
+Test Case 911:
+A = -30
+B = 0
+C = -39
+
+Test Case 912:
+A = -91
+B = -22
+C = -89
+
+Test Case 913:
+A = -81
+B = -89
+C = -62
+
+Test Case 914:
+A = -72
+B = -89
+C = -2
+
+Test Case 915:
+A = 46
+B = 102
+C = 116
+
+Test Case 916:
+A = -75
+B = -17
+C = -43
+
+Test Case 917:
+A = -69
+B = -82
+C = -28
+
+Test Case 918:
+A = -10
+B = -5
+C = -68
+
+Test Case 919:
+A = -62
+B = -26
+C = -71
+
+Test Case 920:
+A = -97
+B = -64
+C = -56
+
+Test Case 921:
+A = -66
+B = -5
+C = -21
+
+Test Case 922:
+A = -37
+B = -97
+C = -91
+
+Test Case 923:
+A = -41
+B = -36
+C = -25
+
+Test Case 924:
+A = -42
+B = -9
+C = -47
+
+Test Case 925:
+A = -29
+B = -76
+C = -41
+
+Test Case 926:
+A = -52
+B = -23
+C = -56
+
+Test Case 927:
+A = -71
+B = -64
+C = -9
+
+Test Case 928:
+A = -80
+B = -41
+C = -25
+
+Test Case 929:
+A = -85
+B = -45
+C = -10
+
+Test Case 930:
+A = 48
+B = 82
+C = 198
+
+Test Case 931:
+A = -9
+B = -88
+C = -81
+
+Test Case 932:
+A = -7
+B = -49
+C = -13
+
+Test Case 933:
+A = -25
+B = -40
+C = -32
+
+Test Case 934:
+A = -23
+B = -11
+C = -23
+
+Test Case 935:
+A = 8
+B = 74
+C = 92
+
+Test Case 936:
+A = 28
+B = 130
+C = 162
+
+Test Case 937:
+A = -67
+B = -99
+C = -13
+
+Test Case 938:
+A = -28
+B = -17
+C = -21
+
+Test Case 939:
+A = -68
+B = -28
+C = -83
+
+Test Case 940:
+A = -7
+B = -7
+C = -36
+
+Test Case 941:
+A = 0
+B = -84
+C = -8
+
+Test Case 942:
+A = -40
+B = -18
+C = -97
+
+Test Case 943:
+A = -19
+B = -26
+C = -25
+
+Test Case 944:
+A = 38
+B = 64
+C = 182
+
+Test Case 945:
+A = -72
+B = -65
+C = -72
+
+Test Case 946:
+A = -76
+B = -39
+C = 0
+
+Test Case 947:
+A = -40
+B = -94
+C = -73
+
+Test Case 948:
+A = -68
+B = -3
+C = -57
+
+Test Case 949:
+A = -43
+B = -14
+C = -58
+
+Test Case 950:
+A = 26
+B = 76
+C = 192
+
+Test Case 951:
+A = -53
+B = -50
+C = -20
+
+Test Case 952:
+A = -97
+B = -43
+C = -90
+
+Test Case 953:
+A = -96
+B = -14
+C = -88
+
+Test Case 954:
+A = -13
+B = -3
+C = -51
+
+Test Case 955:
+A = -25
+B = -94
+C = -4
+
+Test Case 956:
+A = -6
+B = -74
+C = -67
+
+Test Case 957:
+A = -53
+B = -6
+C = -55
+
+Test Case 958:
+A = -68
+B = -36
+C = -44
+
+Test Case 959:
+A = -69
+B = -21
+C = -53
+
+Test Case 960:
+A = -86
+B = -75
+C = -20
+
+Test Case 961:
+A = -33
+B = -5
+C = -28
+
+Test Case 962:
+A = -97
+B = -41
+C = -84
+
+Test Case 963:
+A = 74
+B = 108
+C = 156
+
+Test Case 964:
+A = -83
+B = -29
+C = -11
+
+Test Case 965:
+A = -39
+B = -90
+C = -62
+
+Test Case 966:
+A = -69
+B = -26
+C = -96
+
+Test Case 967:
+A = -54
+B = -66
+C = -15
+
+Test Case 968:
+A = -27
+B = -13
+C = -98
+
+Test Case 969:
+A = -67
+B = -38
+C = -70
+
+Test Case 970:
+A = -90
+B = -51
+C = -16
+
+Test Case 971:
+A = -98
+B = -70
+C = -1
+
+Test Case 972:
+A = -86
+B = -12
+C = -41
+
+Test Case 973:
+A = 20
+B = 70
+C = 98
+
+Test Case 974:
+A = 8
+B = 70
+C = 84
+
+Test Case 975:
+A = -5
+B = -75
+C = -8
+
+Test Case 976:
+A = -91
+B = -54
+C = -94
+
+Test Case 977:
+A = -33
+B = -55
+C = -3
+
+Test Case 978:
+A = -80
+B = -58
+C = -25
+
+Test Case 979:
+A = -54
+B = -57
+C = -2
+
+Test Case 980:
+A = -82
+B = -74
+C = -78
+
+Test Case 981:
+A = -64
+B = -37
+C = -79
+
+Test Case 982:
+A = -68
+B = -2
+C = -45
+
+Test Case 983:
+A = -96
+B = -88
+C = -79
+
+Test Case 984:
+A = -86
+B = -78
+C = -77
+
+Test Case 985:
+A = -80
+B = -39
+C = -76
+
+Test Case 986:
+A = 28
+B = 112
+C = 148
+
+Test Case 987:
+A = -84
+B = -31
+C = -38
+
+Test Case 988:
+A = -3
+B = -1
+C = -35
+
+Test Case 989:
+A = -75
+B = -53
+C = -7
+
+Test Case 990:
+A = 92
+B = 108
+C = 152
+
+Test Case 991:
+A = -31
+B = -68
+C = -31
+
+Test Case 992:
+A = -95
+B = -53
+C = -48
+
+Test Case 993:
+A = -33
+B = -89
+C = -87
+
+Test Case 994:
+A = -84
+B = -54
+C = -98
+
+Test Case 995:
+A = -22
+B = -88
+C = -10
+
+Test Case 996:
+A = 20
+B = 24
+C = 182
+
+Test Case 997:
+A = -29
+B = -66
+C = -41
+
+Test Case 998:
+A = 62
+B = 118
+C = 178
+
+Test Case 999:
+A = 2
+B = 18
+C = 24
+
+Test Case 1000:
+A = -54
+B = -69
+C = -20
+
